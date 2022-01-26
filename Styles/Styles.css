@@ -1,0 +1,5 @@
+/* El signo * significa que hace referencia a todo lo que existe dentro del elemento osea un documento */
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
